@@ -27,16 +27,26 @@ Made an H2 heading after the buildings to see your active buffs, and wrinklers.
 
 ## Known Issues
 
-- **Garden mini-game**: Currently not working. Avoid opening the Garden until this is fixed.
 - **Statistics menu**: Goals for enhanced statistics menu accessibility have been abandoned.
 
 ## Changelog
 
+### Version 12
+- Amsel updated the Garden, and made various tweaks.
+- The Dragon should be accessible now (Special Features panel with Dragon and Santa buttons).
+- Grimoire now has a dedicated accessible panel with all spells listed.
+- Dragon panel shows upgrade costs, aura effects, and all controls.
+- Focus management improvements - panels no longer steal focus while navigating.
+- Announcement suppression while using Dragon/Grimoire panels (except Golden Cookies).
+- Garden re-enabled and working with row/column navigation.
+- Shimmer fading warnings increased to 5 seconds.
+- Wrinkler spawn announcements.
+- Bulk pricing support for buildings.
+
 ### Version 8
-- Garden is not working.
+- Garden was not working.
 - Pantheon is tentatively working.
 - Shimmers might be fixed.
-- Mod might be complete.
 
 This is still undergoing tests, so please, feedback will be greatly appreciated. As will assistance.
 
